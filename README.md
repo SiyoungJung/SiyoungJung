@@ -1,4 +1,4 @@
-[ [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jsy090928)](https://solved.ac/jsy/) ![SiyoungJung's GitHub stats](https://github-readme-stats.vercel.app/api?username=SiyoungJung&show_icons=true&theme=transparent)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jsy090928)](https://solved.ac/jsy/) ![SiyoungJung's GitHub stats](https://github-readme-stats.vercel.app/api?username=SiyoungJung&show_icons=true&theme=transparent)
 
   - 👋 Hi, I’m @SiyoungJung
   - 👀 I’m interested in Kotlin, Swift, Flutter
